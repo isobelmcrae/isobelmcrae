@@ -20,3 +20,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=isobelmcrae&show_icons=true&theme=transparent">
 </details>
 
+<p align="center">저는 간단한 한국어를 말할 수 있습니다. / 我能以基本的中文进行交流。</p>
+
+
